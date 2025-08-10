@@ -1,4 +1,5 @@
 ---
+title: Atlas
 tags:
   - atlas
   - release
@@ -13,14 +14,16 @@ status: stable
 # Definition
 The **Atlas** is a map, hubworld or meta-index of `RI`, describing its overall organization and allowing convenient access to any area of interest.
 
-# महारत्नानि | Mahāratnāni
+I recommend new readers start [here](<What is Republic Internum>) or [here](<Who am I>).
+
+# महारत्नान
 >Great achievements. Projects and creative/interpretive works that I love showing off.
 
-[[Syllabus Vitae 02.27.2025.pdf]]
-[clox](<https://github.com/inceid/clox>)
-[[Annotation of Crafting Interpreters]]
-[[Annotation of The Sources of Normativity]]
-[[C Axler Summary Sheets.pdf]]
+- [[Syllabus Vitae 02.27.2025.pdf]]
+- [clox](<https://github.com/inceid/clox>)
+- [[Annotation of Crafting Interpreters]]
+- [[Annotation of The Sources of Normativity]]
+- [[C Axler Summary Sheets.pdf]]
 
 # Active Sites
 >An **active site** is a set of (non-project) notes undergoing active modification.
